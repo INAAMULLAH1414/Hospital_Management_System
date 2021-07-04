@@ -1,0 +1,40 @@
+SNo.: 1
+Name: Abid Shafique
+Age: 19
+Gender: Male
+Blood Group: A+ve
+Disease: Flu
+Doctor Assigned: Dr. Hamza Yousaf
+
+SNo.: 3
+Name: Hamza
+Age: 12
+Gender: Male
+Blood Group: O+ve
+Disease: Flu
+Doctor Assigned: Dr. Hamza Yousaf
+
+SNo.: 3
+Name: Gull
+Age: 12
+Gender: Male
+Blood Group: O+ve
+Disease: Flu
+Doctor Assigned: Dr. Hamza Yousaf
+
+SNo.: 4
+Name: Naveed
+Age: 19
+Gender: Male
+Blood Group: B+ve
+Disease: Flu
+Doctor Assigned: Dr. Hamza Yousaf
+
+SNo.: 5
+Name: Fahad
+Age: 15
+Gender: Male
+Blood Group: O+ve
+Disease: Ear Disease
+Doctor Assigned: Dr. Muhammad Jahanzaib
+

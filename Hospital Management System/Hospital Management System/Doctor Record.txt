@@ -1,0 +1,30 @@
+SNo.: 1
+Name: Dr. Hamza Yousaf
+Gender: Male
+Specialist: Eye Disease
+Availablity: Yes
+
+SNo.: 2
+Name: Dr. Muhammad Jahanzaib
+Gender: Male
+Specialist: Eye Disease
+Availablity: Yes
+
+SNo.: 3
+Name: Dr. Gull Ariz
+Gender: Male
+Specialist: Eye Disease
+Availablity: Yes
+
+SNo.: 4
+Name: Dr. Usama
+Gender: Male
+Specialist: Eye Disease
+Availablity: Yes
+
+SNo.: 6
+Name: Dr. Asad
+Gender: Male
+Specialist: Fever
+Availablity: Yes
+
